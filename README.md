@@ -15,7 +15,7 @@ Der Skill arbeitet nur lesend: Er legt nichts in deinem Werbekonto an und lösch
 ## Installation
 
 **Claude (App / claude.ai)**
-1. Rechts unter **Releases** die Datei `meta-ads-starter-dawid.zip` herunterladen (nicht entpacken).
+1. **[⬇ meta-ads-starter-dawid.zip herunterladen](https://github.com/dawidinfo/meta-ads-starter/raw/main/meta-ads-starter-dawid.zip)** (nicht entpacken).
 2. In Claude links in der Seitenleiste **Anpassen → Skills** öffnen, auf **+** klicken und die ZIP hochladen.
 3. Den Skill in der Liste per Schalter **aktivieren** – hochgeladen ist noch nicht aktiviert.
 4. Neuer Chat: „Meta-Ads-Starter: Mein Budget ist 100 € am Tag. Ich verkaufe [Angebot] für [Preis]. Landingpage: [Link]. Ich will höchstens [X] € pro Lead zahlen.“
